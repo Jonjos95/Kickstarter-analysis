@@ -1,2 +1,2 @@
-# Kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+# An Analysis of Kickstarter Campaigns
+A comprehensive analysis of kickstarter data and trends,to infer the factors that contribute to a successful launch
