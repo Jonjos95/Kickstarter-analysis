@@ -21,3 +21,6 @@ Ultimately the data showed that of all the categories quantitativily assessed Th
 
 # Kickstarter Challenge
 ![Theater_Outcomes_vs_Launch](https://github.com/Jonjos95/Kickstarter-analysis/blob/f02efa527cfbca721e0334567ecf2ffdd5c29feb/Theater_Outcomes_vs_Launch.png)
+![Outcomes_vs_Goals](https://github.com/Jonjos95/Kickstarter-analysis/blob/3d3c9bb0b2af08c1c8f3cad2cc62444a29844a10/Outcomes_vs_Goals.png)
+
+
