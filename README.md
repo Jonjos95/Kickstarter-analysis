@@ -20,7 +20,24 @@ Ultimately the data showed that of all the categories quantitativily assessed Th
 
 
 # Kickstarter Challenge
+### Purpose
+This weekly challenge provided an opportunity to build on the skills learned in the module.
+1.By combining the analytical skills learned throughout the module it allowed for a challenging assessment of what was retained and gave actionable insghts into the data set.
+
+Deliverable 1: Outcomes Based on Launch Date Chart
+Deliverable 2: Outcomes Based on Goals Chart
+
+### Analysis 
+
+The methods used in this challenge were to start by adding the year column using the year formula whihc would would allow us to pivot for that field moving forward. With this new column we were able to then creat a table (Pivot chart) that would be filtered by year. To better visualize the data we created a line graph summarizing the launch dates. This further demonstrated the trend that successful campaigns launched typically in late May to early June. 
 ![Theater_Outcomes_vs_Launch](https://github.com/Jonjos95/Kickstarter-analysis/blob/f02efa527cfbca721e0334567ecf2ffdd5c29feb/Theater_Outcomes_vs_Launch.png)
+
+### Analysis Based on Launch Date
+*Ultimately Launches in the beginning of summer are the most successful and there for drive the metric to indicate that to succeed one major key is to launch in June.
+
+The Next step was to create a table with the COUNTIFS formula. This would allow us to create multiple criteria to pull data from different sheets and quatify the results respectively. This was a great way to test the ability to refactor and grasp a concept that wasnt covered in the lecture. I found this aspect to be the most difficult part becausse of the length of the formula and nesting so many criterias ( IT TOOK ME A WHILE). But the results were very eye opening Plays had Zero cancellation and the trend seemed to support that the larger the goal the liklier the campaign would fail. The more measured goals had a much higher percentage for success.
 ![Outcomes_vs_Goals](https://github.com/Jonjos95/Kickstarter-analysis/blob/3d3c9bb0b2af08c1c8f3cad2cc62444a29844a10/Outcomes_vs_Goals.png)
 
+### Analysis Based on Goals
+*The size of the goal is an indicator as to the percentage rate for success. The more measured the goal the higher the possibility is to achieve it. The tendency in the data revealed that failure was at a higher percentage for the large goals.
 
