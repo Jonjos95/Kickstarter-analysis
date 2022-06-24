@@ -1,4 +1,5 @@
 # An Analysis of Kickstarter Campaigns
+### Objective
 A comprehensive analysis of kickstarter data and trends,to infer the factors that contribute to a successful launch. Through analysis the contributing factors for success as well as those leading to failure were uncovered and visulaized. 
 
 ### Succesful Campaigns
@@ -13,3 +14,6 @@ Further drilling down into the data we are able to see that Plays highly success
 ### Launching for Success
  Findings were clear that trends were heavily influenced by not only the timing of the campaign but also the length of the campaign. We agregated the data and created a pivot that would total the values ouf campaign outcomes by the launch date and if there was success, failure, cancellation or if the kickstarter was still live. The trend highlighted that of all the Theatre campaigns The best time to launch was in June, the rate of success is at its peak and subsequently drops significantly thereafter. Culminating with the lowest point of success falling in December.
  ![Theater Outcomes](https://github.com/Jonjos95/Kickstarter-analysis/blob/b34e59ccb205a4fe5897a8cb184cdc72d87403ad/Theater%20Outcomes.png)
+
+### Conclusion
+Ultimately the data showed that of all the categories quantitativily assessed Theater was the most successful parent category. Futhermore plays were highly successgul in meeting their campaign goals, the key contributing factors to this success were predominately timing of year as well as the size of the goal. Per statiscal analysis and measuring the central tendancies we found that many of the failed campaigns had goals extraordinaly larger than their counterparts. To the point of skewing the dataset to the right of the mean (average). This highlighted a key component in the model that suggests a large goal may have not been attainable considering the average donations were much smaller than the campaigns seeking less funds. To conclude, the analysis suggests that optimal success would be reached with a goal of $4,000.00-$5,000.00 and a kickstarter launch in early June.
