@@ -3,4 +3,4 @@ A comprehensive analysis of kickstarter data and trends,to infer the factors tha
 
 1. The most successful category as it pertains to kickstarters were in the Theater (Parent Category)
 
-![Parent Category Outcomes](Kickstarter-analysis/to/"Parent_Category_Outcomes.png")
+![Parent Category Outcomes](Kickstarter-analysis/to/"Parent Category Outcomes.png")
