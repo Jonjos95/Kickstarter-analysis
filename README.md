@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 A comprehensive analysis of kickstarter data and trends,to infer the factors that contribute to a successful launch. Through analysis the contributing factors for success as well as those leading to failure were uncovered and visulaized. 
 
-#Succesful Campaigns
+### Succesful Campaigns
 
 1. The most successful category as it pertains to kickstarters was the Theater Parent Category)
 
