@@ -11,3 +11,5 @@ Further drilling down into the data we are able to see that Plays highly success
 ![Play Outcomes](https://github.com/Jonjos95/Kickstarter-analysis/blob/b59c451dae31bd9a40574dfcea6b05799eb42829/Play%20Outcomes.png)
 
 ### Launching for Success
+ Findings were clear that trends were heavily influenced by not only the timing of the campaign but also the length of the campaign. We agregated the data and created a pivot that would total the values ouf campaign outcomes by the launch date and if there was success, failure, cancellation or if the kickstarter was still live. The trend highlighted that of all the Theatre campaigns The best time to launch was in June, the rate of success is at its peak and subsequently drops significantly thereafter. Culminating with the lowest point of success falling in December.
+ ![Theater Outcomes](https://github.com/Jonjos95/Kickstarter-analysis/blob/b34e59ccb205a4fe5897a8cb184cdc72d87403ad/Theater%20Outcomes.png)
