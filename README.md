@@ -17,3 +17,7 @@ Further drilling down into the data we are able to see that Plays highly success
 
 ### Conclusion
 Ultimately the data showed that of all the categories quantitativily assessed Theater was the most successful parent category. Futhermore plays were highly successgul in meeting their campaign goals, the key contributing factors to this success were predominately timing of year as well as the size of the goal. Per statiscal analysis and measuring the central tendancies we found that many of the failed campaigns had goals extraordinaly larger than their counterparts. To the point of skewing the dataset to the right of the mean (average). This highlighted a key component in the model that suggests a large goal may have not been attainable considering the average donations were much smaller than the campaigns seeking less funds. To conclude, the analysis suggests that optimal success would be reached with a goal of $4,000.00-$5,000.00 and a kickstarter launch in early June.
+
+
+# Kickstarter Challenge
+![Theater_Outcomes_vs_Launch](https://github.com/Jonjos95/Kickstarter-analysis/blob/f02efa527cfbca721e0334567ecf2ffdd5c29feb/Theater_Outcomes_vs_Launch.png)
